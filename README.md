@@ -24,7 +24,7 @@ The fields in this file are:
 
 ## Citation
 If you use this dataset and code in any published research, please cite the following:
-* Hitomi Yanaka, Koji Mineshima, [Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference](), Proceedings of the 2021 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP2021), 2021.
+* Hitomi Yanaka, Koji Mineshima, [Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference](https://aclanthology.org/2021.blackboxnlp-1.26/), Proceedings of the 2021 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP2021), 2021.
 
 ```
 @InProceedings{yanaka-EtAl:2021:blackbox,
