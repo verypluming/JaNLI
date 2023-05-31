@@ -1,5 +1,6 @@
 # JaNLI (Japanese Adversarial Natural Language Inference)
 - repository for our BlackboxNLP2021 paper "Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference"
+- **You can use JaNLI at [huggingface dataset](https://huggingface.co/datasets/hpprc/janli)!**
 
 ## Install Tools
 Python3.6
